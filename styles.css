@@ -403,18 +403,90 @@ main {
 /* RESPONSIVO */
 
 @media (max-width: 768px) {
+  /* HEADER - esconder links de navegação, manter logo + signup */
+  nav {
+    display: none;
+  }
+
+  .header-container {
+    padding: 0 15px;
+  }
+
+  /* HERO - reduzir textos grandes */
+  .titulo1 {
+    font-size: 28px;
+  }
+
+  .caixamaior {
+    max-width: 100%;
+  }
+
+  .topo {
+    padding: 15px 5px;
+  }
+
+  .topo2 {
+    font-size: 13px;
+  }
+
+  /* SECTION EMPRESAS */
+  .titulo2 {
+    font-size: 26px;
+  }
+
+  .subtitulo2 {
+    font-size: 15px;
+  }
+
+  /* CARDS - empilhar ao invés de ficar lado a lado */
+  .cards-container {
+    flex-direction: column;
+  }
+
+  .imagem1,
+  .imagem2 {
+    height: 280px;
+  }
+
+  .titulo3 {
+    font-size: 26px;
+  }
+
+  /* QUEM SOMOS / NEWSROOM / CIDADANIA - empilhar */
+  .section5 {
+    flex-direction: column;
+    margin-left: 0;
+    padding: 20px;
+    gap: 30px;
+  }
+
+  /* APP */
+  .titulo4 {
+    font-size: 28px;
+  }
+
   .app-info img {
     display: none;
   }
 
+  .app-card {
+    padding: 15px;
+  }
+
+  .app-card h3 {
+    font-size: 18px;
+  }
+
+  /* CADASTRO */
   .cadastro-container {
     flex-direction: column;
   }
 
   .cadastro-item h2 {
-    font-size: 30px;
+    font-size: 24px;
   }
 
+  /* FOOTER */
   .footer-lojas {
     flex-direction: column;
     align-items: center;
