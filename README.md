@@ -7,7 +7,7 @@ Clone da página inicial (home) do site da Uber, desenvolvido inteiramente com H
 📸 Preview
 <img width="1852" height="707" alt="image" src="https://github.com/user-attachments/assets/3fb2889f-6c15-4bfe-9908-5d2a02ae3412" />
 <img width="1846" height="855" alt="image" src="https://github.com/user-attachments/assets/231c52ed-c27a-4b9c-a71b-0be8e330b774" />
-<img width="1787" height="832" alt="image" src="https://github.com/user-attachments/assets/7b98abc2-88af-4cbe-9575-1f7cc99730ea" />
+<img width="1777" height="858" alt="image" src="https://github.com/user-attachments/assets/4668eda8-d334-4bf1-8649-341bcbc2d897" />
 <img width="1063" height="867" alt="image" src="https://github.com/user-attachments/assets/27642b9d-3a16-4c5a-9f45-918d17fad55c" />
 <img width="1061" height="872" alt="image" src="https://github.com/user-attachments/assets/0363071e-cf3d-41dd-9791-46aee6630b1e" />
 
